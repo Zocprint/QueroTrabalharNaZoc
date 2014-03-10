@@ -115,7 +115,7 @@ Procuramos pessoas com estes requisitos básicos:
 
 * Design patterns de Javascript e Frontend;
 * Práticas de engenharia de software e XP (TDD, Refactoring, CI, Coding Standards, Pair Programming, etc);
-* Recursos do HTML5 (localStorage, canvas, geoLocation, history API, etc);
+* Recursos do HTML5 (Local Storage, Canvas, History API, etc);
 * LESS ou equivalente;
 * Responsive design;
 * PHP;
